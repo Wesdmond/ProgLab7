@@ -1,0 +1,13 @@
+<Array>
+  <Dragon>
+    <id>1</id>
+    <name>1</name>
+    <coordinates>
+      <x>1</x>
+      <y>1</y>
+    </coordinates>
+    <creationDate>2023-09-20 18:25:20.657 UTC</creationDate>
+    <age>1</age>
+    <color>WHITE</color>
+    <type>AIR</type>
+    <character>CHAOTIC</character>
